@@ -3,4 +3,4 @@
 source _common.sh
 source /usr/share/yunohost/helpers
 
-ynh_script_progression --message="Removal of $app completed"
+ynh_script_progression "Removal of $app completed"
